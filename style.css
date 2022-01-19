@@ -254,9 +254,6 @@ footer ul {
     padding: 20px;
     max-width: 800px;
   }
-}
-
-@media (max-width: 1050px) {
   main {
     padding-top: 200px;
   }
